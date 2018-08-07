@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Customer Care Bot (FYP)</string>
+    <string name="share_app">Share App</string>
+    <string name="help">Help</string>
+    <string name="ask_me_anything">Hello,ask me anything…</string>
+</resources>
